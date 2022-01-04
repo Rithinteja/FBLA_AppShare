@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>FBLA App test</Text>
+      <Text>FBLA APP WORKS</Text>
       <StatusBar style="auto" />
     </View>
   );
